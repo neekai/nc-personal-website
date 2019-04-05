@@ -3,7 +3,7 @@
     <section class="hero flex-center">
       <h1 class="hero-title">Find Out What I Can Do</h1>
       <h2 class="hero-sub-title">DIG A LITTLE BIT DEEPER</h2>
-      <a href="../assets/ncResume.pdf" download>
+      <a target="_blank" href="https://s3.amazonaws.com/nickcai-resume/ncResume.pdf" download>
         DOWNLOAD RESUME
       </a>
     </section>
