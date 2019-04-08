@@ -156,6 +156,7 @@
     line-height: 1.4;
   }
 
+
   /* flex-container */
   .flex-container {
     display: flex;
@@ -288,6 +289,9 @@
     .hero {
       background-repeat: no-repeat;
       background-size: cover;
+    }
+    .container {
+      margin-top: 196px;
     }
   }
   

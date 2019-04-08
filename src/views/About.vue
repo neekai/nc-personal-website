@@ -4,7 +4,7 @@
       <div class="hero-image flex-center">
         <div class="hero-text">
           <h2>Get to Know Me as a Person</h2>
-          <h1>MY STORY AND PERSONALIOTY</h1>
+          <h1>MY STORY AND PERSONALITY</h1>
         </div>
       </div>
 
@@ -31,7 +31,7 @@
         <div class="col">
           <div class="description-text">
             <h1>My Hobbies</h1>
-            <p>Oh man, there are just so many of them, where do I begin? I love music. I was a part of a choir since going to elementary school in Beijing up until graduating highschool in the US.
+            <p>Oh man, there are just so many of them, where do I begin? I love music. I was a part of a choir since going to elementary school in Beijing up until graduating high school in the US.
               Then I started DJing in college and even got a few songs and mixes on soundcloud. I love to play basketball! People always assumed since I am from LA, my favorite player had to be Kobe, but my actual all time favorite player is Dwyane Wade (He's a baaad man). 
               I started playing when I was 9 and still do till this day because ball is life! I would also love to be able to travel around the world and experience all the different cultures and food.
             </p>
