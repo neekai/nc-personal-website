@@ -42,8 +42,7 @@
         <div class="col">
           <div class="description-text">
             <h1>My Values</h1>
-            <p>Family is always first. No amount of money in the world can buy you a loving family. Growing up, I wasn't always the most obedient child. I made countless mistakes, but my family has always had my back through thick and thin.
-              My number one goal in life is to make my family proud.
+            <p>Family is always first. No amount of money in the world can buy you a loving family. I appreciate everything that they have done for me and my number one goal in life is to make them proud.
             </p>
           </div>
         </div>
